@@ -20,3 +20,4 @@ with sync_playwright() as p:
 
 # This is the trail code for source code commit.
 #thanks
+#Namaste
